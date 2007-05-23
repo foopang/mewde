@@ -3,7 +3,7 @@
 
 = My Emacs Web Development Enviroment =
 
- * First and Last; I am sorry my poor English, this not my first language; I'm still working fo learning English better; but for now; I am really sorry... *
+ * First and Last; I am sorry my poor English, this not my first language; I'm still working for learning English better; but for now; I am really sorry... *
 
 = Introduction =
 
