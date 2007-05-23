@@ -3,6 +3,8 @@
 
 = My Emacs Web Development Enviroment =
 
+ *First and Last; I am sorry my poor English, this not my first language; I'm still working fo learning English better; but for now; I am really sorry...*
+
 = Introduction =
 
 This project covers nothing for special. This is just my GNU Emacs Web Development Enviroment for Win32 Systems based on the [http://ourcomments.org/Emacs/Emacs.html Emacs at OurComments.org] Emacs Win32 Ourcomments Project with a little additions; but it works for other operating-systems because Emacs Enviroment works almost all systems.
