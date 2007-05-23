@@ -1,6 +1,8 @@
 #summary What Comes with Mewde.
 #labels Phase-Design,Phase-Support
 
+* First and Last; I am sorry my poor English, this not my first language; I'm still working for learning English better; but for now; I am really sorry...
+
 = New GNU Emacs CSS Mode =
 
 I was edit Karl Landstrom css-mode, mixed from Alex Shinn css-mode and Stefan Monnier css-mode from nxhtml-pack, at the end we have M-ENTER completion for property list; C-c C-c comment out region, C-c C-u url adding and of course full of your css-mode with your imenu support. Additional, we have speedbar support for navigating css-source code, class, id's, html elements.
@@ -448,7 +450,6 @@ All other modes inside my _site-lisp_ directory.
 }}} 
 
 That's all...
-
 
 
 
