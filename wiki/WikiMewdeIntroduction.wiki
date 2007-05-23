@@ -1,14 +1,14 @@
-#summary One-sentence summary of this page.
+#summary My Emacs Web Development Enviroment.
 #labels Phase-Requirements,Phase-Deploy,Phase-Support
 = My Emacs Web Development Enviroment =
 
 = Introduction =
 
-This project covers nothing for special. This is just my GNU Emacs Web Development Enviroment for Win32 Systems based on the [http://ourcomments.org/Emacs/Emacs.html Emacs at OurComments.org]Emacs Win32 Ourcomments Project with a little additions; but it works for other operating-systems because Emacs Enviroment works almost all systems.
+This project covers nothing for special. This is just my GNU Emacs Web Development Enviroment for Win32 Systems based on the [http://ourcomments.org/Emacs/Emacs.html Emacs at OurComments.org] Emacs Win32 Ourcomments Project with a little additions; but it works for other operating-systems because Emacs Enviroment works almost all systems.
 
-I think most important part for everyone; My PHP-CSS-Javascript and Smarty Modes. You can't find anywhere outside here:) These modes not so sepacial actually; just tree xemacs mode tweaks for working GNU Emacs and some other tricks; like documentation browsing with w3m, speedbar support for navigate source code, templating and textmate like snippets usage with msf-abbrev mode... I must say I'm not elisp hacker, even proggrammar; I tried this because I needed open source productive code writing. 
+I think most important part for everyone; My PHP-CSS-Javascript and Smarty Modes. You can't find anywhere outside here:) These modes not so sepacial actually; just tree xemacs mode tweaks for working GNU Emacs and some other tricks; like documentation browsing with w3m, speedbar support for navigate source code, templating and textmate like snippets usage with msf-abbrev mode... I must say I'm not elisp hacker, even programmar; I tried this because I needed open source productive code writing. 
 
-My goals for this project; I have a web development enviroment like other unix systems inside Win32 platform. You can edit projects, css-html-php-smarty-po files with Emacs. But having this power; GNU Emacs not enough, sorry.
+My goals for this project; I have a web development enviroment like other unix systems inside Win32 platform. You can edit projects, css-html-javascript-php-smarty-po-textile-csv files with Emacs. But having this power; GNU Emacs not enough, sorry.
 
 You must download and install first:
 
@@ -38,6 +38,6 @@ This part draft for now; but power users can be handle everthing with this infor
 
   * Put nxhtml directory content C:\Program Files\Emacs\EmacsW32\nxhtml\
 
-  * And that is all. You can see screenshots my flickr page http://www.flickr.com/photos/ahmetusal/ and some screenshots inside mewde package. If you done everthing true; your Emacs must be looking like this:)
+  * And that is all. You can see screenshots from my flickr page http://www.flickr.com/photos/ahmetusal/ and some screenshots inside mewde package. If you are done everything true; your Emacs must be looking like this:)
 
-  * I will give more information how can you use all Emacs Web Development Enviroment Package next-time; but for now, just discover...
+  * I will give more information how can you use all Emacs Web Development Enviroment Package other wiki pages and My [http://mewde.blogspot.com Mewde Blog] ; but for now, just discover...
