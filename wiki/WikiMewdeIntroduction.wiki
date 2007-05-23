@@ -25,7 +25,7 @@ You must download and install first:
   * 7zip - The Best archive program of the world
   * For Complete Solution, I hardly suggest use Firefox with webdeveloper and firebug-firephp extensions. Of course you must setup this world leading real browser and development-debugger enviroment:)
   * For testing all Internet Explorer versions(5-6), you must setup Multiple IE ( If you are googled, you can easily find.)And you can use ie5-6-7; if your winxp system update to ie7
-  * I suggest Gimp for image editing; Gimp win32 installation page: [http://gimpwin.sourceforge.net]
+  * I suggest Gimp for image editing; Gimp win32 installation page: [http://gimp-win.sourceforge.net]
   
 = Installation Details =
 
