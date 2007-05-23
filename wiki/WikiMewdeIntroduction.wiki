@@ -1,0 +1,43 @@
+#summary One-sentence summary of this page.
+#labels Phase-Requirements,Phase-Deploy,Phase-Support
+= My Emacs Web Development Enviroment =
+
+= Introduction =
+
+This project covers nothing for special. This is just my GNU Emacs Web Development Enviroment for Win32 Systems based on the [http://ourcomments.org/Emacs/Emacs.html Emacs at OurComments.org]Emacs Win32 Ourcomments Project with a little additions; but it works for other operating-systems because Emacs Enviroment works almost all systems.
+
+I think most important part for everyone; My PHP-CSS-Javascript and Smarty Modes. You can't find anywhere outside here:) These modes not so sepacial actually; just tree xemacs mode tweaks for working GNU Emacs and some other tricks; like documentation browsing with w3m, speedbar support for navigate source code, templating and textmate like snippets usage with msf-abbrev mode... I must say I'm not elisp hacker, even proggrammar; I tried this because I needed open source productive code writing. 
+
+My goals for this project; I have a web development enviroment like other unix systems inside Win32 platform. You can edit projects, css-html-php-smarty-po files with Emacs. But having this power; GNU Emacs not enough, sorry.
+
+You must download and install first:
+
+  * Cygwin Shell (required for w3m browser enviroment within Win32)
+  * Msys Shell (bash script works better in this shell)
+  * GPL Ghostscript and Ghostview and Miktex (If you are use Auctex for Latex editing)
+  * ImageMagicK : Required image viewing inside emacs
+  * w3m text based web browser and setup inside cygwin
+  * GNU Win32 - Gettext package for po files editing
+  * Emacs Win32 from OurComments (required base installation-everything inside with win32 enviroment problem solution, nxml and nxhtml-mode for base-powerful html-xml editing)
+  * Emacs win32 Download page is here :[http://ourcomments.org/cgi-bin/emacsw32-dl-latest.pl] I suggest last patched version. This is what you are basically need.
+  * Emacs w3m package and setup inside cygwin - or you can use my site-lisp inside w3m package, but firs you must setup w3m browser-this package just emacs-w3m shell
+  * 7zip - The Best archive program of the world
+  * For Complete Solution, I hardly suggest use Firefox with webdeveloper and firebug-firephp extensions. Of course you must setup this world leading real browser and development-debugger enviroment:)
+  * For testing all Internet Explorer versions(5-6), you must setup Multiple IE ( If you are googled, you can easily find.)
+  
+= Installation Details =
+
+This part draft for now; but power users can be handle everthing with this information.
+
+  * If you are setup [http://ourcomments.org/cgi-bin/emacsw32-dl-latest.pl Latest Emacs Win32 Package] and other requirements; download _MEWDE_.7zip package, open archive some where and install like this: 
+  * Rename emacs.el to .emacs and with .abbrev_defs file, both must be placed your home/Application Data directory
+
+  * Your Emacs Installation Place with Emacs win32 Default Installation C:\Program Files\Emacs
+
+  * Put our site-lisp directory C:\Program Files\Emacs
+
+  * Put nxhtml directory content C:\Program Files\Emacs\EmacsW32\nxhtml\
+
+  * And that is all. You can see screenshots my flickr page http://www.flickr.com/photos/ahmetusal/ and some screenshots inside mewde package. If you done everthing true; your Emacs must be looking like this:)
+
+  * I will give more information how can you use all Emacs Web Development Enviroment Package next-time; but for now, just discover...
