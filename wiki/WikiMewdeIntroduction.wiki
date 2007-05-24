@@ -7,12 +7,14 @@
 
 = Introduction =
 
-This project covers nothing for special. This is just my GNU Emacs Web Development Enviroment for Win32 Systems based on the [http://ourcomments.org/Emacs/Emacs.html Emacs at OurComments.org] Emacs Win32 Ourcomments Project with a little additions; but it works for other operating-systems because Emacs Enviroment works almost all systems.
+This project covers nothing special. This is just my GNU Emacs Web Development Enviroment for Win32 Systems based on the [http://ourcomments.org/Emacs/Emacs.html Emacs at OurComments.org] Emacs Win32 Ourcomments Project with a little additions; but it works for other operating-systems because Emacs Enviroment works almost all systems.
 
-I think most important part for everyone; My PHP-CSS-Javascript and Smarty Modes. You can't find anywhere outside here:) These modes not so special actually; just tree xemacs 
+I think most important part for everyone; My PHP-CSS-Javascript and Smarty Modes. I added Javascript-mode, php-mode and css mode to [http://www.emacswiki.org Emacs Wiki] These modes not so special actually; just tree xemacs 
 mode tweaks for working GNU Emacs and some other tricks; like documentation browsing with w3m, speedbar support for navigate source code, templating and textmate like snippets usage with msf-abbrev mode... I must say I'm not elisp hacker, even programmar; I tried this because I needed open source productive code writing. 
 
-My goals for this project; I have a web development enviroment like other unix systems inside Win32 platform. You can edit projects, css-html-javascript-php-smarty-po-textile-csv files with Emacs. But having this power; GNU Emacs not enough, sorry.
+Goode News; original xemacs php and smarty mode maintainer support to Gnu Emacs with next versions.
+
+My goals with this project; I have a web development enviroment like other unix systems inside Win32 platform. You can edit projects, css-html-javascript-php-smarty-po-textile-csv files with Emacs. But having this power; GNU Emacs not enough, sorry.
 
 You must download and install first:
 
