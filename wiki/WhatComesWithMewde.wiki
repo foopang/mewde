@@ -5,7 +5,7 @@
 
 = New GNU Emacs CSS Mode =
 
-I was edit Karl Landstrom css-mode, mixed from Alex Shinn css-mode and Stefan Monnier css-mode from nxhtml-pack, at the end we have M-ENTER completion for property list; C-c C-c comment out region, C-c C-u url adding and of course full of your css-mode with your imenu support. Additional, we have speedbar support for navigating css-source code, class, id's, html elements.
+I was edit Karl Landstrom css-mode, mixed from Alex Shinn css-mode and Stefan Monnier css-mode from nxhtml-pack, at the end we have M-ENTER completion for property list; C-c C-c comment out region, C-c C-u url adding and imenu support. Additional, we have speedbar support for navigating css-source code, class, id's, html elements.
 
 I'm using this mode with nxhtml-mode; hexcolour-display mode(for showing colors inside css files viewing hexcolors), tinypair-minor-mode(from tiny-tools-about ""(){} automatic insert process)... All of them give to complete powerful css processing for me...
 
@@ -450,7 +450,6 @@ All other modes inside my _site-lisp_ directory.
 }}} 
 
 That's all...
-
 
 
 
