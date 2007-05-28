@@ -14,14 +14,14 @@ These additional Modes inside package.
 = New GNU Emacs Javascript Mode =
 
 I was convert Xemacs last javascript mode; this mode support to new js libraries code navigation within speedbar, better than other GNU Emacs Javascript Modes. I added javascript-console support; I use [http://www.jsdb.org  
-jsdb for win32] for working javascript shell inside win32 shell. You can see my dotemacs file how i configured. Now we have javascript-shell inside Emacs for testing basic javascript algorithims. Additional Mozill-Firefox Debugging support comes with minor js-mode; this modes give you connection to Mozilla-Firefox Enviroment for debugging. I just packaged and configured in my dot emacs...
+jsdb for win32] for working javascript shell inside win32 shell. You can see my dotemacs file how i configured. Now we have javascript-shell inside Emacs for testing basic javascript algorithims. Additional Mozill-Firefox Debugging support comes with minor js-mode; this modes give you connection to Mozilla-Firefox Environment for debugging. I just packaged and configured in my dot emacs...
 
 = New GNU Emacs PHP Mode =
 
 This Mode not official Xemacs PHP Mode; it comes from [http://deboutv.free.fr/lisp/php/index.php Debotv] and well documented. You can see in this address all specials.When I was discover; I said: Thanks God! This is what I was looking for PHP editing. Now we have VIM power inside Emacs to editing php code:) Even Zend Studio:)
 
-I converted to GNU Emacs; I added from other GNU Emacs php mode; browse manual, check syntax and find documentation, speedbar and imenu support functions. All templates and indentations works great.  Templates handle all php functions, class and loops like textmate style:) Automatic completion with just TAB keypressing. If you are install cygwin+w3m, you can look at the php functions from manual within Emacs Enviroment and w3m.
-If you are set to php path your win32 enviroment variables; you can check syntax just pressing f12. Besides, everything customizable. All Documentation in here:  [http://deboutv.free.fr/lisp/php/index.php] Many powerful things in there. Discover it!
+I converted to GNU Emacs; I added from other GNU Emacs php mode; browse manual, check syntax and find documentation, speedbar and imenu support functions. All templates and indentations works great.  Templates handle all php functions, class and loops like textmate style:) Automatic completion with just TAB keypressing. If you are install cygwin+w3m, you can look at the php functions from manual within Emacs Environment and w3m.
+If you are set to php path your win32 environment variables; you can check syntax just pressing f12. Besides, everything customizable. All Documentation in here:  [http://deboutv.free.fr/lisp/php/index.php] Many powerful things in there. Discover it!
 
 = New GNU Emacs Smarty Mode =
 
@@ -39,7 +39,7 @@ All other modes inside my _site-lisp_ directory.
 
   * Apache-Mode : For editing all apache files
   * Ascii-Table : Easy insertation for Ascii characters
-  * Color-Theme : Good Looking for Emacs Code Enviroment
+  * Color-Theme : Good Looking for Emacs Code Environment
   * CSV Mode    : Editing comma-seperate files and looks like tabular-data viewing
   * Hexcolour Mode : For CSS files color property viewing.
   * Linkd Mode : Linking any files in your system within Emacs, very useful.
@@ -450,7 +450,6 @@ All other modes inside my _site-lisp_ directory.
 }}} 
 
 That's all...
-
 
 
 
