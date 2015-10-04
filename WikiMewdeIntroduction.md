@@ -1,0 +1,48 @@
+# My Emacs Web Development Environment #
+
+  * First and Last; I am sorry my poor English, this not my first language; I'm still working for learning English better; but for now; I am really sorry... 
+
+# Introduction #
+
+This project covers nothing special. This is just my GNU Emacs Web Development Environment for Win32 Systems based on the [Emacs at OurComments.org](http://ourcomments.org/Emacs/Emacs.html) Emacs Win32 Ourcomments Project with a little additions; but it works for other operating-systems; because Emacs Environment works almost all systems.
+
+I think most important part for everyone; My PHP-CSS-Javascript and Smarty Modes. I added Javascript-mode, php-mode and css mode to [Emacs Wiki](http://www.emacswiki.org) These modes not so special actually; just three xemacs
+mode tweaks for working GNU Emacs and some other tricks; like documentation browsing with w3m, speedbar support for navigating source code, templating and textmate like snippets usage with msf-abbrev mode... I must say I'm not elisp hacker, even programmar; I tried this because I needed open source productive code writing environment.
+
+Good News; original xemacs php and smarty mode maintainer support to Gnu Emacs with next versions.
+
+My goals with this project; I have a web development environment like other unix systems inside Win32 platform. You can edit projects, css-html-javascript-php-smarty-po-textile-csv files with Emacs. But having this power; GNU Emacs not enough, sorry.
+
+You must download and install first:
+
+  * Cygwin Shell (required for w3m browser environment within Win32)
+  * Msys Shell (bash script works better in this shell)
+  * GPL Ghostscript and Ghostview and Miktex (If you are use Auctex for Latex editing)
+  * ImageMagicK : Required image viewing inside emacs
+  * w3m text based web browser and setup inside cygwin
+  * GNU Win32 - Gettext package for po files editing
+  * Emacs Win32 from OurComments (required base installation-everything inside with win32 environment problem solution, nxml and nxhtml-mode for base-powerful html-xml editing)
+  * Emacs win32 Download page is here :http://ourcomments.org/cgi-bin/emacsw32-dl-latest.pl I suggest last patched version. This is basically what you are  need.
+  * Emacs w3m package and setup inside cygwin - or you can use my site-lisp directory inside w3m package, but once you must setup w3m browser-this package just for emacs-w3m shell
+  * Bitstream Fonts for Win32, because you need good looking fonts for Emacs, My Dotemacs setup to Bitstream Vera Sans Mono
+  * 7zip - The Best archive program of the world
+  * For Complete Solution, I hardly suggest use Firefox with webdeveloper and firebug-firephp extensions. Of course you must setup this world leading real browser and development-debugger environment:)
+  * For testing all Internet Explorer versions(5-6), you must setup Multiple IE ( If you are googled, you can easily find.)And you can use ie5-6-7; if your winxp system update to ie7
+  * I suggest Gimp for image editing; Gimp win32 installation page: http://gimp-win.sourceforge.net
+
+# Installation Details #
+
+This part draft for now; but power users can be handle everthing with this information.
+
+  * If you are setup [Latest Emacs Win32 Package](http://ourcomments.org/cgi-bin/emacsw32-dl-latest.pl) and other requirements; download _MEWDE_.7zip package, open archive somewhere and install like this:
+  * Rename emacs.el to .emacs and with .abbrev\_defs file, both must be placed your home/Application Data directory - this directory default hidden; you must arrange Show Hidden Files option from your explorer
+
+  * Your Emacs Installation Place with Emacs win32 Default Installation C:\Program Files\Emacs
+
+  * Put our site-lisp directory to C:\Program Files\Emacs
+
+  * Put nxhtml directory content C:\Program Files\Emacs\EmacsW32\nxhtml\
+
+  * And that is all. You can see screenshots from my flickr page http://www.flickr.com/photos/ahmetusal/ and some screenshots inside mewde package. If you are done everything true; your Emacs must be looking like this:)
+
+  * I will give more information how can you use all Emacs Web Development Environment Package other wiki pages and My [Mewde Blog](http://mewde.blogspot.com) ; but for now, just discover...
